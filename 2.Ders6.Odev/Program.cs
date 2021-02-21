@@ -73,6 +73,9 @@ namespace _2.Ders6.Odev
         }
     }
 
+
+
+
     class Product
     {
         public int UrunId { get; set; }
